@@ -1,3 +1,7 @@
+##    to install
+`pip install totex --user`
+
+## example
 `python
 datafr: pandas.DataFrame
 totex.tabtex.convertFromData(
